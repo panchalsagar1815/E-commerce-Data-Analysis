@@ -11,7 +11,7 @@
 - [Instructions](#instructions)
 
 ## Introduction <a name="introduction"></a>
-The client is an ecommerce in the cosmetics sector that seeks to break the trend of null evolution obtained during the last months.
+The client is an ecommerce in the cosmetics sector that seeks to break the trend of null evolution obtained during the last months
 
 - [See a technical explanation of the project here.](https://pedrocorma.github.io/project/3ecommerce/)
 

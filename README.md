@@ -46,7 +46,7 @@ A plan of 10 specific initiatives organized into 5 major business levers has bee
 **Actions to increase conversion rates:**
 
 4. Preconfigure the home page with the products identified in the most viewed and most sold analysis.
-5. Work on products with high cart abandonment rate.
+5. Work on products with a high cart abandonment rate.
 6. Work on products that are highly viewed but rarely purchased and on products that are highly purchased but rarely viewed.
 
 **Actions to increase cross-selling:**
@@ -58,19 +58,4 @@ A plan of 10 specific initiatives organized into 5 major business levers has bee
 8. 90% of customers make only one purchase. Create a regular newsletter with the new recommendation system to increase visit frequency.
 9. Conduct promotional campaigns on the top segments of the RFM segmentation.
 
-**Customer loyalty actions:**
 
-10. Create a loyalty program segmented by the new developed RFM segmentation.
-
-## Project structure <a name="project-structure"></a>
-- :file_folder: Datos
-  - :file_folder: Imagenes:  Contains project images.
-- :file_folder: Notebooks
-  - `01_Diseño del proyecto.ipynb`: Notebook compiling the initial design of the project.
-  - `02_Creacion del Datamart Analitico.ipynb`: Notebook creating analitic datamart (loading and unifying data, applying data quality processes, ...).
-  - `03_Analisis e Insights.ipynb`: Notebook used for the execution of the exploratory data analysis and which collects the business insights found as well as the recommended actionable initiatives.
-- 📈 Business_Case_.xlsx: Business Case excel file.
-
-## Instructions  <a name="instructions"></a>
-- Unzip ecommerce.rar and tablon_analitico.rar under 'Datos' folder.
-- Remember to update the `project_path` to the path where you have replicated the project.
